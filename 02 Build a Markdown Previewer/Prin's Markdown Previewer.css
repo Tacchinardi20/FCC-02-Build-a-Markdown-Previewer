@@ -1,0 +1,15 @@
+body {
+    background-color: #ff7979;
+}
+
+.preview {
+    background-color: #fff;
+}
+
+.preview img {
+    max-width: 90%;
+}
+
+#editor, .preview {
+    min-height: 600px;
+}
